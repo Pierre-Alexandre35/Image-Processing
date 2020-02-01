@@ -1,0 +1,12 @@
+load res/image1.jpg
+greyscale
+save res/image1_grey.jpg
+load res/image1.jpg
+sepia
+save res/image1_sepia.jpg
+load res/image2.png
+greyscale
+save res/image2_grey.jpg
+load res/image2.png
+sepia
+save res/image2_sepia.png

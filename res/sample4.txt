@@ -1,0 +1,9 @@
+load res/image1.jpg
+blur
+blur
+save res/image1_blurtwice.jpg
+sharpen
+save res/image1_blurtwicethensharp.jpg
+load res/image1.jpg
+sharpen
+save res/image1_sharpenonce.jpg

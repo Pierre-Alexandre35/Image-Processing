@@ -1,0 +1,18 @@
+load res/image2.png
+dithering
+save res/image2_dither.png
+load res/image2.png
+mosaicing 1000
+save res/image2_mosaic1000.png
+load res/image2.png
+mosaicing 8000
+save res/image2_mosaic8000.png
+load res/image1.jpg
+dithering
+save res/image1_dither.jpg
+load res/image1.jpg
+mosaicing 1000
+save res/image1_mosaic1000.jpg
+load res/image1.jpg
+mosaicing 8000
+save res/image1_mosaic8000.jpg

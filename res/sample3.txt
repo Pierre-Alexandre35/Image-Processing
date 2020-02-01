@@ -1,0 +1,12 @@
+generate rainbowFlag 200 400 h
+mosaicing 2000
+greyscale
+save res/mosaicgrey_rainbow.jpg
+generate checkerboard 50
+save res/checkerboard.jpg
+generate frenchFlag 200 300
+save res/frenchflag.jpg
+generate switzerlandFlag 200 200
+save res/switzerland.jpg
+generate greeceFlag 200 300
+save res/greece.jpg
