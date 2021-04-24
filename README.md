@@ -14,4 +14,17 @@ To start this program using the GUI, run the JAR file included in the res/ folde
 <p align="center">
   <img src="docs/overview.png" />
 </p>
-  <h5 align="center">Original NYC photography</h5>
+<h5 align="center" margin-bottom="10px">Original NYC photography</h5>
+
+<p align="center">
+  <img src="docs/mozaic.png" />
+</p>
+<h5 align="center" margin-bottom="10px">Mozaic filter</h5>
+
+<p align="center">
+  <img src="docs/blur.png" />
+</p>
+<h5 align="center" margin-bottom="10px">Blur filer</h5>
+
+
+
