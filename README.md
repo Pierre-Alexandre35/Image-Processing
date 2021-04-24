@@ -22,7 +22,7 @@ To start this program using the GUI, run the JAR file included in the res/ folde
 <h5 align="center" margin-bottom="10px">Mozaic filter</h5>
 
 <p align="center">
-  <img src="docs/blur.png" />
+  <img src="docs/dithering.png" />
 </p>
 <h5 align="center" margin-bottom="10px">Blur filer</h5>
 
