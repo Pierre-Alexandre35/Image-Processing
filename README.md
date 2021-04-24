@@ -1,5 +1,9 @@
 # Imagen
 
+<p align="center">
+  <img src="docs/overview.png" />
+</p>
+
 ## Description 
 
 Imager is a program created for Northeastern University’s CS-5004 Object Oriented Design course, a part of the Align MSCS program. Imager is a program that takes an image or creates an image and performs an operation on the image’s pixels to produce a desired outcome. This README is specifically written for part two. 
