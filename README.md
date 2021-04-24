@@ -16,21 +16,21 @@ To start this program using the GUI, run the JAR file included in the res/ folde
 </p>
 <h5 align="center">Original NYC photography</h5>
 
-$~~~~~~~$
+<br /><br />
 
 <p align="center">
   <img src="docs/mozaic.png" />
 </p>
 <h5 align="center">Mozaic filter</h5>
 
-$~~~~~~~$
+<br /><br />
 
 <p align="center">
   <img src="docs/blur.png" />
 </p>
 <h5 align="center">Blur filer</h5>
 
-$~~~~~~~$
+<br /><br />
 
 
 <p align="center">
