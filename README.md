@@ -13,6 +13,5 @@ To start this program using the GUI, run the JAR file included in the res/ folde
 
 <p align="center">
   <img src="docs/overview.png" />
-  <br>
-  <h3>Original NYC photography</h3>
 </p>
+  <h5 align="center">Original NYC photography</h5>
