@@ -9,7 +9,22 @@ This is the third release of the Imager program. The Imager program now includes
 
 To start this program using the GUI, run the JAR file included in the res/ folder of this submission with -interactive (See last sentence of this paragraph). After a moment, the GUI will start right up. The interactive controller is called with the following script: java -jar Program.jar -interactive.
 
-### Examples
+## Installation 
+Java is required to run this application 
+```
+git clone https://github.com/Pierre-Alexandre35/Imagen
+cd res 
+java -jar app.jar -interactive
+```
+
+
+## Contributors
+
+- Weihan Liu 
+- Pierre-Alexandre Mousset  
+
+
+## Examples
 
 <p align="center">
   <img src="docs/overview.png" />
